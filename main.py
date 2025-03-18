@@ -1,3 +1,4 @@
+# Ovo je moj komentar - lovreivas
 def nova_funkcija():
     return "Ovo je nova funkcija."
 
